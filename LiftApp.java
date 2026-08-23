@@ -7,7 +7,9 @@ String liftName="*****UparNiche*****";
 }
 
 public static void liftOne(){
+for(int i =0 ; i<0;i++){
 
+}
 }
 
 public static void liftTwo(){
